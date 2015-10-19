@@ -2,7 +2,8 @@
 
 ## Reagents
 1. Lysis Buffer (LB)
-	* 4% SDS
+	* ~~4% SDS~~ 0.5% SDS <- 4% SDS seemed like way too much.
+	* 8M Urea
 	* 100 mM Tris-HCl pH 7.5
 2. Urea Buffer A (UA)
 	* 8M Urea
