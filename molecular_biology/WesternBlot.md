@@ -35,7 +35,7 @@ Starting with a completed SDS-PAGE gel:
 7. Destain with tap water
 
 ### Blotting
-1. Block membrane with 3% milk-TBS for 1 hr at RT
+1. Block membrane with 3% (w/v) milk-TBS for 1 hr at RT
 2. Wash 3 times for 5 minutes with 0.1% TWEEN20 in TBS (T-TBS)
 3. Add primary Ab in 1% BSA T-TBS and incubate
 	* 2 hrs at RT or,
